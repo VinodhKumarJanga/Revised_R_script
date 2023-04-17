@@ -6,7 +6,7 @@ install.packages('dplyr')
 library(dplyr) # Loading Dplyr package
 
 #Task: Write the function to get a dataset from Base R: Titanic
-titanic_data <- read.csv('..\Titanic.csv')
+titanic_data <- read.csv('VinodhKumarJanga/Revised_R_script/Titanic.csv')
 
 
 #and give the dataframe a new name of your choice
